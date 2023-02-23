@@ -1,0 +1,29 @@
+body {
+    background-image: url('./images/backg.png');
+    background-size: cover;
+  }
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100px; 
+    width:"20%";
+    }
+    .p1{
+        display: inline;
+    }
+    .paragraph{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100px; 
+    width:"20%";
+    }
+    .h22{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100px; 
+    width:"20%";
+    }
+    
